@@ -91,7 +91,7 @@ resharper_place_type_constraints_on_same_line = false
 resharper_allow_comment_after_lbrace = false
 
 # Other
-resharper_continuous_indent_multiplier = 0
+resharper_continuous_indent_multiplier = 1
 indent_switch_labels = true
 resharper_indent_nested_usings_stmt = false
 resharper_indent_nested_fixed_stmt = false
