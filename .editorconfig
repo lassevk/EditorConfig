@@ -183,7 +183,7 @@ resharper_static_members_qualify_members = none
 resharper_builtin_type_reference_style = use_keyword
 
 # ReSharper - C# - CodeStyle - Reference Qualification
-resharper_prefer_qualified_reference = true
+resharper_prefer_qualified_reference = false
 resharper_add_imports_to_deepest_scope = false
 resharper_allow_alias = true
 resharper_can_use_global_alias = true
